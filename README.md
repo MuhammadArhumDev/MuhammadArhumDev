@@ -8,8 +8,8 @@
   
 - 📫 You can reach out to me at [Email](mailto:44889@students.riphah.edu.pk) - [Linkedin](https://linkedin.com/in/MuhammadArhum)
 
-  
-- ⚡ Fun fact:
+
+⚡ Fun fact:
 
 Did you know that the first computer virus was created in 1983 by a programmer named Fred Cohen as an experiment? It was called the 'Brain' virus and was designed to infect floppy disks. 
 
