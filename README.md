@@ -13,4 +13,4 @@
   Did you know that the first computer virus was created in 1983 by a programmer named Fred Cohen as an experiment? It was called the 'Brain' virus and was 
 designed to infect floppy disks. 
 
-This historical milestone underscores an important aspect of hacking: the significance of programming skills. Being a proficient programmer is essential for understanding how systems work and how they can be manipulated, making it a fundamental skill for ethical hackers and cybersecurity professionals.
+  This historical milestone underscores an important aspect of hacking: the significance of programming skills. Being a proficient programmer is essential for understanding how systems work and how they can be manipulated, making it a fundamental skill for ethical hackers and cybersecurity professionals.
